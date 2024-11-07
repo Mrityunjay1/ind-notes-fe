@@ -63,3 +63,10 @@ This project uses Tailwind CSS for styling. Customize the theme in `tailwind.con
 
 MIT
 
+## Reusable or Emmbeded Components
+
+I have created a shared-component folder.
+Components are bunduled with roll-up.js
+Then Pushed to npm repository-
+
+https://www.npmjs.com/package/note-taking-components
